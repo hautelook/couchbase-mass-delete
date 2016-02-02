@@ -1,0 +1,19 @@
+{
+  "name": "couchbase-mass-delete",
+  "version": "1.0.0",
+  "description": "Scalable way to mass delete Couchbase documents returned by a given query.",
+  "main": "couchbase-mass-delete.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "couchbase": "^2.1.3"
+  },
+  "keywords": [
+    "couchbase",
+    "delete"
+  ],
+  "author": "Herman J. Radtke III <herman.radtke@hautelook.com> (http://hautelook.github.io/)",
+  "license": "MIT/Apache-2.0"
+}
